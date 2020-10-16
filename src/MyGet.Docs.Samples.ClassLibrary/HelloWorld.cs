@@ -4,7 +4,7 @@
     {
         public static string SayHelloWorld()
         {
-            return "Hello world, this is NiceGuy speaking";
+            return "Hello world, this is NiceGuy";
         }
     }
 }
